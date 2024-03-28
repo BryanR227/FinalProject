@@ -2,7 +2,9 @@
 
 ## What idea(s) do you have for your final project?
 
-I want to mod Stardew Valley or Hollow Knight.
+Mod Stardew Valley or Hollow Knight.
+Create a game using Pygame.
+Create something like pong or Mario.
  
 
 TODO
