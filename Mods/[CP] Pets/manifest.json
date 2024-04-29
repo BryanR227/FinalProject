@@ -3,7 +3,7 @@
     "Author": "Bryan Reyes",
     "Version": "1.0.0",
     "Description": "Project to reskin some of the Stardew Pets into other charachters and pets.",
-    "UniqueID": "BryanReyes.PepsiPets+",
+    "UniqueID": "BryanReyes.PepsiPets",
     "UpdateKeys": [],
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"

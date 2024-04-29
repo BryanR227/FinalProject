@@ -3,18 +3,23 @@
     "Changes": [
        {
           "Action": "EditImage",
-          "Target": "Animals/cat1",
+          "Target": "Animals/cat",
           "FromFile": "assets/Goomy.png"
        },
        {
         "Action": "EditImage",
-        "Target": "Animals/cat",
+        "Target": "Animals/cat1",
         "FromFile": "assets/Pepsi.png"
      },
      {
         "Action": "EditImage",
         "Target": "Animals/cat2",
-        "FromFile": "assets/Goomy.png"
+        "FromFile": "assets/Rat.png"
      }
+     {
+      "Action": "EditImage",
+      "Target": "Animals/cat3",
+      "FromFile": "assets/YellowRat.png"
+   }
     ]
  }
