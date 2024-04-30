@@ -15,7 +15,7 @@
         "Action": "EditImage",
         "Target": "Animals/cat2",
         "FromFile": "assets/Rat.png"
-     }
+     },
      {
       "Action": "EditImage",
       "Target": "Animals/cat3",
